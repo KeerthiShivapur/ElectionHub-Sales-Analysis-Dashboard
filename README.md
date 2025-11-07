@@ -1,1 +1,1 @@
-# ElectionHub Sales Analysis Dashboard using Power BI
+# ElectroHub Sales Analysis Dashboard using Power BI
